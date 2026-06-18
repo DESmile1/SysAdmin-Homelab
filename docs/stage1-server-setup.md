@@ -29,4 +29,6 @@ Initial Ubuntu server was prepared for infrastructure use and migrated from a de
 
 ## Outcome
 
+Configuration files for the network setup can be found in the [configs](https://github.com/DESmile1/SysAdmin-Homelab/tree/main/configs) directory.
+
 Server is now configured as a stable network node suitable for further infrastructure development (hardening, services deployment, automation).
