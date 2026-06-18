@@ -19,6 +19,7 @@ The system is built incrementally, with each change documented after implementat
 - IP: 192.168.88.10
 - Network: systemd-networkd (static configuration)
 - SSH: active and reachable
+- SSH authentication: key-based access enabled
 
 ---
 
@@ -27,6 +28,7 @@ The system is built incrementally, with each change documented after implementat
 - Initial server setup completed
 - Network configuration migrated from DHCP to static IP
 - SSH access verified and stabilized
+- Key-based SSH authentication configured for secure remote access
 
 ---
 
